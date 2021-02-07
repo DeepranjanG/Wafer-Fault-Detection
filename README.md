@@ -1,5 +1,8 @@
 ## Wafer Fault Detection
 
+#### DEMO
+![gif from nerdy.dev](https://github.com/DeepranjanG/DeepranjanG/blob/main/Wafer-demo.gif?raw=true)
+
 #### Problem Statement:
     
     Wafer (In electronics), also called a slice or substrate, is a thin slice of semiconductor,
